@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pavlomysak
-- 👀 I’m interested in Data Analytics/Science
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently studying Business Analytics at State University of New York at New Paltz
 - 📫 How to reach me - pavlomysak@gmail.com
 
