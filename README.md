@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @pavlomysak
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently studying Business Analytics at State University of New York at New Paltz
+- 👀 I’m interested in Machine Learning, Statistics, and Econometrics.
+- 🌱 I’m currently studying Data Science at Boston University.
+- 📚 I hold a B.S. in Business Analytics from the State University of New York at New Paltz.
 - 📫 How to reach me - pavlomysak@gmail.com
 
 <!---
